@@ -11,8 +11,6 @@ API REST para um mural de publicações, desenvolvida em Java com Maven.
 | GET | `/posts/{id}` | Busca uma publicação |
 | DELETE | `/posts/{id}` | Remove uma publicação |
 
-> Ajuste a tabela para os endpoints que a API realmente expõe.
-
 ## Conceitos aplicados
 
 - Arquitetura em camadas (controller / service / repository)
